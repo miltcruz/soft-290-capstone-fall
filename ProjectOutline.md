@@ -8,6 +8,7 @@
   - SOFTWARE DEVELOPMENT (SD): Full-stack app, API integration, deployment.
 
 2. 10-Week Timeline
+   
 | Week | Milestone                     | Activities                                                                               |
 | ---- | ----------------------------- | ---------------------------------------------------------------------------------------- |
 | 1    | Kickoff & Planning            | Define problem, roles, tech stack, success metrics. Gather datasets.                     |
