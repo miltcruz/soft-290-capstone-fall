@@ -1,5 +1,6 @@
 # Capstone Project
 
+## Sub-Title
 1. Project Scope
 - **Goal**: Build a platform that ingests business data, applies AI for predictions/recommendations, and presents insights via a web and mobile app.
 - **Tracks**:
